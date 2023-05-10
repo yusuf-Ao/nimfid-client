@@ -1,2 +1,1 @@
-# nimfid
-NIMFID Client application
+# nimfid-client
