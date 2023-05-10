@@ -1,0 +1,2 @@
+    // "dev": "vite --host & npm run tailwind",
+    // "build": "vite build",
